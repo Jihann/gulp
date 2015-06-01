@@ -1,6 +1,7 @@
 /**
  * Created by JBH on 2015/4/22.
  * 利用gulp的特性管道输出
+ * 压缩图片
  */
 var gulp = require('gulp');
 
