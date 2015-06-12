@@ -5,6 +5,7 @@
  */
 var gulp = require('gulp');
 
+//获取imagemin
 var imagemin = require('gulp-imagemin');
 
 //创建启动任务
